@@ -12,7 +12,7 @@ This is homework 1 in NYCU Selected Topics in Visual Recognition using Deep Lear
 
 Or build the environment via:
 ```
-$ conda create -f environment.yml
+$ conda env create -f environment.yml
 ```
 
 ## Prepare Dataset
