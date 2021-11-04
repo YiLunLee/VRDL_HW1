@@ -10,9 +10,9 @@ This is homework 1 in NYCU Selected Topics in Visual Recognition using Deep Lear
 + scipy
 + tensorboard
 
-Or build the enviroment via:
+Or build the environment via:
 ```
-$ conda create -f requirements.yml
+$ conda create -f environment.yml
 ```
 
 ## Prepare Dataset
