@@ -1,4 +1,5 @@
 # VRDL_HW1: Bird Image Classification
+This is homework 1 in NYCU Selected Topics in Visual Recognition using Deep Learning.
 
 ## Installation
 **Requirements:**
